@@ -1,0 +1,25 @@
+{
+  "name": "softwrap",
+  "version": "1.0.0",
+  "description": "Program created for test",
+  "main": "index.js",
+  "author": "Daniel Barroso",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.3",
+    "i": "^0.3.6",
+    "mysql2": "^1.5.3",
+    "nodemon": "^2.0.4",
+    "sequelize": "5.19.6",
+    "sequelize-cli": "5.5.1"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.12.0"
+  }
+}
