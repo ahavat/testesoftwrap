@@ -16,4 +16,4 @@ O frontend foi construído em React, utilizando o Typescript. A decisão de util
 
 No backend foi utilizado um orm (Sequelize) e o banco de dados MySql.Toda aplicação construída com ExpressJS, utilizando o plugin do ESlint para padronização do código.
 
-É possível testar aplicação utilizando o Insomnia pelas rotas do server e assim, consefuir fazer também o CRUD de usuários.
+É possível testar aplicação utilizando o Insomnia pelas rotas do server e assim conseguir fazer também o CRUD de usuários.
